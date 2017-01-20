@@ -3,7 +3,7 @@
 <suite name="Test runner" parallel="false" >	
 <test name="Regression_ReplaceString">
 		<classes>
-			<class name="com.apple.ReplaceString.TestReplaceString" />
+			<class name="com.apple.ReplaceString" />
 		</classes>
 	</test>
 </suite>
